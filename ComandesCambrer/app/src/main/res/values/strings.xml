@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Comandes Cambrer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_info">Info"</string>
+
+    <string name="boton_nova_comanda">Nova Comanda</string>
+    <string name="boton_productes">Productes</string>
+    <string name="boton_fer_caixa">Fer Caixa</string>
+    <string name="boton_historial_comandes">Historial Comandes</string>
+    <string name="title_activity_comanda">Comanda</string>
+    <string name="title_activity_productes">Productes</string>
+    <string name="title_activity_fer_caixa">Fer Caixa</string>
+    <string name="title_activity_historial_comandes">Historial Comandes</string>
+    <string name="title_activity_informacio">Help</string>
+    <string name="title_activity_consultar__producte">Consultar Producte</string>
+    <string name="title_activity_agregar_producto">Afegir Producte</string>
+
+</resources>
